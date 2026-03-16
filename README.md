@@ -1,2 +1,4 @@
 # Console-Based-Banking-System
-Console Based Banking System
+Console Based Banking System:
+This project is a simple **Java-based Bank Account Management System** that demonstrates basic **Object-Oriented Programming (OOP)** concepts such as encapsulation and inheritance. The program allows a user to create a bank account by entering details like account number, account holder name, initial balance, and interest rate. It includes a `BankAccount` class that manages core banking operations such as depositing and withdrawing money while ensuring that withdrawals cannot exceed the available balance. A `SavingsAccount` class extends the `BankAccount` class and adds functionality to calculate interest based on the current balance and a given interest rate. The program takes user input using the `Scanner` class, performs deposit and withdrawal operations, updates the account balance accordingly, and finally calculates and displays the interest earned. This project is useful for beginners learning Java as it provides a practical example of implementing classes, constructors, inheritance, methods, and user input handling in a simple banking scenario.
+
